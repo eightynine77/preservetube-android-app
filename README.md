@@ -1,7 +1,7 @@
 # preservetube-archive
 an app for archiving youtube videos to preservetube.com  
 
-## how to use
+## how to use the app
 ### step 1
 find the video you want to archive  
 <img src="https://github.com/user-attachments/assets/cda20c2f-546c-4b3c-9970-5c6dddb517d5" width="160" height="320">
