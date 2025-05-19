@@ -1,4 +1,4 @@
-# preservetube-archive
+# preservetube android app
 an app for archiving youtube videos to preservetube.com  
   
 you can download the app [here](https://github.com/eightynine77/preservetube-archive/releases/tag/V1.0.0)
